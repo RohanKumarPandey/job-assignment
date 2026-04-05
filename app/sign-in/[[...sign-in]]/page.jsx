@@ -1,9 +1,13 @@
+'use client';
+
 import { SignIn } from '@clerk/nextjs';
 
 export default function SignInPage() {
   return (
     <div className="min-h-screen bg-background flex items-center justify-center bg-mesh-gradient">
       <SignIn
+        path="/sign-in"
+        routing="path"
         appearance={{
           variables: {
             colorPrimary: 'hsl(263, 70%, 62%)',

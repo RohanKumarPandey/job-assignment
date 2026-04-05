@@ -76,9 +76,9 @@ const PLANS = [
     description: 'For large organizations with advanced needs.',
     features: ['Unlimited participants', 'SFU architecture', 'Custom AI pipelines', 'SSO & SCIM', 'SLA guarantee', 'Dedicated support', 'On-premise option'],
     cta: 'Contact sales',
-    href: 'mailto:sales@antigravity.app',
+    href: 'mailto:sales@rohan.app',
     popular: false,
-  },
+  }
 ];
 
 const containerVariants = {
@@ -101,7 +101,7 @@ export default function LandingPage() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-brand-violet to-brand-cyan flex items-center justify-center">
               <Zap className="w-4 h-4 text-white" />
             </div>
-            <span className="font-display font-bold text-lg text-gradient">ANTIGRAVITY</span>
+            <span className="font-display font-bold text-lg text-gradient">Live Meet</span>
           </Link>
           <div className="hidden md:flex items-center gap-6 text-sm text-muted-foreground">
             <Link href="#features" className="hover:text-foreground transition-colors">Features</Link>
@@ -155,8 +155,8 @@ export default function LandingPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            ANTIGRAVITY combines crystal-clear WebRTC video with Claude AI intelligence.
-            Every meeting transcribed, summarized, and actioned — automatically.
+            Rohan brings crystal-clear WebRTC video together with Claude AI intelligence.
+            Every meeting feels natural, gets transcribed, and leaves you with instant action items.
           </motion.p>
 
           <motion.div
@@ -192,7 +192,7 @@ export default function LandingPage() {
                 <div className="w-3 h-3 rounded-full bg-yellow-400" />
                 <div className="w-3 h-3 rounded-full bg-green-400" />
                 <div className="flex-1" />
-                <div className="text-xs text-muted-foreground font-mono">antigravity.app/room/a7k3m9xq</div>
+                <div className="text-xs text-muted-foreground font-mono">rohan.app/room/a7k3m9xq</div>
               </div>
               <div className="bg-brand-navy rounded-xl aspect-video flex items-center justify-center relative overflow-hidden">
                 <div className="grid grid-cols-2 gap-3 w-full h-full p-4">
@@ -333,10 +333,10 @@ export default function LandingPage() {
             <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-brand-violet to-brand-cyan flex items-center justify-center">
               <Zap className="w-3.5 h-3.5 text-white" />
             </div>
-            <span className="font-display font-bold text-gradient">ANTIGRAVITY</span>
+            <span className="font-display font-bold text-gradient">Rohan</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} ANTIGRAVITY. Built for the Swades AI Hackathon.
+            © {new Date().getFullYear()} Rohan. Built to make meetings feel more human.
           </p>
           <div className="flex items-center gap-4">
             <Link href="https://github.com" className="text-muted-foreground hover:text-foreground transition-colors" target="_blank" rel="noopener">

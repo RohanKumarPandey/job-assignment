@@ -24,7 +24,7 @@ export function Navbar() {
             <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-brand-violet to-brand-cyan flex items-center justify-center">
               <Zap className="w-3.5 h-3.5 text-white" />
             </div>
-            <span className="font-display font-bold text-gradient hidden sm:block">ANTIGRAVITY</span>
+            <span className="font-display font-bold text-gradient hidden sm:block">Live Meet</span>
           </Link>
           <div className="hidden md:flex items-center gap-1">
             {links.map(({ href, label, icon: Icon }) => (

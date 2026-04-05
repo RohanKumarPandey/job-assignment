@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
-// Syntactically valid pk_test key so `next build` can prerender without a real Clerk instance.
-// Replace with real keys via .env / hosting env; when set, those override this fallback.
+// This app requires a real Clerk publishable key in `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`.
+// Do not use the placeholder key in production or Vercel.
 const CLERK_PLACEHOLDER_PUBLISHABLE_KEY =
   'pk_test_c291Z2h0LWNvcmdpLTE0LmNsZXJrLmFjY291bnRzLmRldiQ';
 

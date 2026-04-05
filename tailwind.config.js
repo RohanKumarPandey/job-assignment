@@ -48,7 +48,7 @@ module.exports = {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
-        // ANTIGRAVITY brand tokens
+        // Rohan brand tokens
         brand: {
           violet: 'hsl(263 70% 60%)',
           cyan: 'hsl(188 95% 55%)',

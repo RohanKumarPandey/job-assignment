@@ -1,7 +1,7 @@
 {
-  "name": "antigravity-frontend",
+  "name": "rohan-frontend",
   "version": "1.0.0",
-  "description": "ANTIGRAVITY - Real-time video collaboration frontend",
+  "description": "Rohan - Human-first video collaboration frontend",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3000",

@@ -1,9 +1,13 @@
+'use client';
+
 import { SignUp } from '@clerk/nextjs';
 
 export default function SignUpPage() {
   return (
     <div className="min-h-screen bg-background flex items-center justify-center bg-mesh-gradient">
       <SignUp
+        path="/sign-up"
+        routing="path"
         appearance={{
           variables: {
             colorPrimary: 'hsl(263, 70%, 62%)',
