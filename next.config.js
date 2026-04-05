@@ -7,7 +7,8 @@ const CLERK_PLACEHOLDER_PUBLISHABLE_KEY =
 const nextConfig = {
   env: {
     NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY:
-      process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY || CLERK_PLACEHOLDER_PUBLISHABLE_KEY,
+      process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY ||
+      (process.env.NODE_ENV === 'development' ? CLERK_PLACEHOLDER_PUBLISHABLE_KEY : ''),
   },
   reactStrictMode: true,
   swcMinify: true,
