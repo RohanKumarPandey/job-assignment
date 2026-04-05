@@ -1,0 +1,28 @@
+# clerk configuration (can include secrets)
+/.clerk/
+
+# local env (secrets)
+.env
+.env*.local
+
+# Node dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Vercel
+.vercel/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
