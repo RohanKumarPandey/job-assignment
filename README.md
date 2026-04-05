@@ -56,22 +56,16 @@ The app uses the following environment variables:
 Add screenshot images to a `screenshots/` folder, then update the file names below if needed.
 
 ### Landing page
-
-https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387952/Screenshot_2026-04-05_164008_lgnydy.png
-
-https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387951/Screenshot_2026-04-05_164026_wjxlh2.png
+![Landing page 1](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387952/Screenshot_2026-04-05_164008_lgnydy.png)
+![Landing page 2](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387951/Screenshot_2026-04-05_164026_wjxlh2.png)
 
 ### Dashboard
-
-https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387950/Screenshot_2026-04-05_164244_itegad.png
+![Dashboard](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387950/Screenshot_2026-04-05_164244_itegad.png)
 
 ### Meeting room
-
-![Meeting room]https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387950/Screenshot_2026-04-05_164244_itegad.png
-
-https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388151/Screenshot_2026-04-05_165211_ouiusz.png
-
-https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388150/Screenshot_2026-04-05_165121_q56vcx.png
+![Meeting room 1](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387950/Screenshot_2026-04-05_164244_itegad.png)
+![Meeting room 2](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388151/Screenshot_2026-04-05_165211_ouiusz.png)
+![Meeting room 3](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388150/Screenshot_2026-04-05_165121_q56vcx.png)
 
 ## Notes
 
