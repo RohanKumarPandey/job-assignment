@@ -63,7 +63,7 @@ Add screenshot images to a `screenshots/` folder, then update the file names bel
 ![Dashboard](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387950/Screenshot_2026-04-05_164244_itegad.png)
 
 ### Meeting room
-![Meeting room 1](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775387950/Screenshot_2026-04-05_164244_itegad.png)
+![Meeting room 1](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388800/Screenshot_2026-04-05_165025_bfqvsr.png)
 ![Meeting room 2](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388151/Screenshot_2026-04-05_165211_ouiusz.png)
 ![Meeting room 3](https://res.cloudinary.com/dwxxxmlup/image/upload/v1775388150/Screenshot_2026-04-05_165121_q56vcx.png)
 
